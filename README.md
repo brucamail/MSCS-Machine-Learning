@@ -7,3 +7,7 @@ Directory list:
 	- Week 4: 
 		- Mini-Project: BBC News
 		- Mini-Project: NMF Recommender
+	- Final Project: Airline Topic Modeling (Folder)
+		- Airline Feedback TopicModeling.ipynb - Notebook
+		- airline_bad_reviews.csv - combined dataset of bad reviews for multiple airlines
+		
