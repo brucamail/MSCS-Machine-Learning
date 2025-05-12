@@ -11,3 +11,7 @@ Directory list:
 		- Airline Feedback TopicModeling.ipynb - Notebook
 		- airline_bad_reviews.csv - combined dataset of bad reviews for multiple airlines
 		
+- CSCA5642:
+	- Mini Projects:
+		- Cancer Detection MiniProject
+		- Disaster Tweets MiniProject
