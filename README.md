@@ -4,7 +4,7 @@ Repository for CU Boulder's MSCS assignments
 Directory list:
 - CSCA5622: Final assignment for CSCA 5622: Introduction to Machine Learning: Supervised Learning
 - CSCA5632: 
-	- Week 4: 
+	- Mini Projects: 
 		- Mini-Project: BBC News
 		- Mini-Project: NMF Recommender
 	- Final Project: Airline Topic Modeling (Folder)
@@ -13,5 +13,6 @@ Directory list:
 		
 - CSCA5642:
 	- Mini Projects:
-		- Cancer Detection MiniProject
-		- Disaster Tweets MiniProject
+		- Cancer Detection MiniProject - Using CNNs to categorize Cancer images
+		- Disaster Tweets MiniProject - Using RNNs to categorize disaster Tweets
+		- Picture to Monet MiniProject - Apply Cycle GAN to generate Monte like pictures
