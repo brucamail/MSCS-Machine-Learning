@@ -16,3 +16,5 @@ Directory list:
 		- Cancer Detection MiniProject - Using CNNs to categorize Cancer images
 		- Disaster Tweets MiniProject - Using RNNs to categorize disaster Tweets
 		- Picture to Monet MiniProject - Apply Cycle GAN to generate Monte like pictures
+	- Final Project:
+		- Fashion MNIST Classification - Focused on CNNs and HyperParameter tuning using Kera Tuner
